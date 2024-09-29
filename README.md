@@ -12,8 +12,8 @@ Preventing heart disease has become essential, and data-driven systems can signi
 
 **Machine Learning algorithms used**:
 
-Logistic Regression (Scikit-learn)
-Naive Bayes (Scikit-learn)
++Logistic Regression (Scikit-learn)
++Naive Bayes (Scikit-learn)
 Support Vector Machine (Linear) (Scikit-learn)
 K-Nearest Neighbours (Scikit-learn)
 Random Forest (Scikit-learn)
