@@ -9,15 +9,12 @@ Preventing heart disease has become essential, and data-driven systems can signi
 2.Implemented various machine learning algorithms in Python to solve a binary classification problem, predicting the presence of heart disease based on multiple input features.  
 
 3.Applied algorithms like Logistic Regression, Naive Bayes, Support Vector Machine, K-Nearest Neighbours, and Random Forest using Scikit-learn to achieve reliable predictions.
+
 **Machine Learning algorithms used**:
 
 Logistic Regression (Scikit-learn)
-
 Naive Bayes (Scikit-learn)
-
 Support Vector Machine (Linear) (Scikit-learn)
-
 K-Nearest Neighbours (Scikit-learn)
-
 Random Forest (Scikit-learn)
 
