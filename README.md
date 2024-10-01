@@ -4,16 +4,14 @@ Preventing heart disease has become essential, and data-driven systems can signi
 
 ## Summary
 
-- Analyzed heart disease patient data and trained machine learning models (KNN, Random Forest, SVM, Logistic Regression) for prediction, featured in the Kaggle kernel 'Binary Classification with Sklearn.
+- Analyzed heart disease patient data and trained machine learning models (KNN, Random Forest, Logistic Regression) for prediction, featured in the Kaggle kernel 'Binary Classification with Sklearn.
 
 - Implemented various machine learning algorithms in Python to solve a binary classification problem, predicting the presence of heart disease based on multiple input features.  
 
-- Applied algorithms like Logistic Regression, Naive Bayes, Support Vector Machine, K-Nearest Neighbours, and Random Forest using Scikit-learn to achieve reliable predictions.
+- Applied algorithms like Logistic Regression, K-Nearest Neighbours, and Random Forest using Scikit-learn to achieve reliable predictions.
 
 **Machine Learning algorithms used**:
 + Logistic Regression (Scikit-learn)
-+ Naive Bayes (Scikit-learn)
-+ Support Vector Machine (Linear) (Scikit-learn)
 + K-Nearest Neighbours (Scikit-learn)
 + Random Forest (Scikit-learn)
 
